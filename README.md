@@ -4,7 +4,7 @@
 - ### If you wanna ***clone*** the project in ***netbeans IDE***(for apache netbeans IDE 23):
     > Go to team(at top) -> Git -> Clone -> Paste the URL of repo and enter credentials -> Finish
 
-- ### Database code for reference:
+- ### Database code used for project(___for reference___):
 ```sql
 CREATE DATABASE spendingdb;
 USE spendingdb;
@@ -28,5 +28,5 @@ CREATE TABLE budgets (
 );
 ```
 
-- ### Preview of Project:
+- ### Video showing the working of Project:
     https://github.com/user-attachments/assets/4cc0ac0d-f55f-4e53-ab32-953c8ab9415d
