@@ -15,7 +15,7 @@ public class Connections {
     public static Statement st;
     static{
         try{
-            c=DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/spendingdb", "root", "#Nick@178681");
+            c=DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/spendingdb", "root", "your_password");
             st=c.createStatement();
         }catch(Exception ex){
             JOptionPane.showMessageDialog(null, ex);
