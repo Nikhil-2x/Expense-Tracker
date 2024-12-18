@@ -27,3 +27,6 @@ CREATE TABLE budgets (
     FOREIGN KEY (category_name) REFERENCES category_info(category_name)
 );
 ```
+
+- ### Preview of Project:
+    https://github.com/user-attachments/assets/4cc0ac0d-f55f-4e53-ab32-953c8ab9415d
